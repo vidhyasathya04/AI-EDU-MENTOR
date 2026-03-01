@@ -15,7 +15,7 @@
     "bcryptjs": "^3.0.2",
     "chart.js": "^4.4.2",
     "framer-motion": "^11.0.14",
-    "groq": "^3.95.0",
+    "groq-sdk": "^0.37.0",
     "jsonwebtoken": "^9.0.2",
     "lucide-react": "^0.468.0",
     "mongoose": "^8.16.1",
